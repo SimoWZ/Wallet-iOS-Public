@@ -33,4 +33,4 @@ The App does not knowingly collect or solicit personal information from children
 ## 5. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-[Insert Support Email Here]
+simodev.italy@gmail.com
