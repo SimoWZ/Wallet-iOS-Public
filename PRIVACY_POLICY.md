@@ -22,6 +22,10 @@ The App requests access to your device's camera solely for the purpose of **scan
 
 The App requests permission to send local notifications to remind you of upcoming subscription renewals. These notifications are scheduled locally on your device.
 
+### Face ID / Touch ID
+
+You may choose to protect access to the App using Biometric authentication (Face ID or Touch ID). This authentication process is handled entirely by the iOS system. The App only receives a notification of "success" or "failure" and never has access to your biometric data.
+
 ## 3. Third-Party Services
 
 The App uses Apple's **StoreKit** for processing "Pro" version purchases. Financial transactions are handled entirely by Apple; we do not have access to your credit card information or billing details.
